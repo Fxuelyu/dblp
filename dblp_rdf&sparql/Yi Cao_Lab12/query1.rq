@@ -1,0 +1,4 @@
+select ?article ?title
+where {
+?arcticle <http://www.me.org/dblp/title> ?title.
+}

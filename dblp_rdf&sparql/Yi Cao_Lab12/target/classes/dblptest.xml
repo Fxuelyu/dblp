@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE dblp SYSTEM "dblp.dtd">
+<dblp>
+<article mdate="2011-01-11" key="journals/acta/Franta76">
+<author>William R. Franta</author>
+<title>The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.</title>
+<pages>187-209</pages>
+<year>1976</year>
+<volume>6</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta6.html#Franta76</url>
+<ee>http://dx.doi.org/10.1007/BF00268500</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Kindler95"> 
+<author>Ekkart Kindler</author>
+<title>Invariants, Composition, and Substitution.</title>
+<journal>Acta Inf.</journal>
+<volume>32</volume> 
+<number>4</number>
+<year>1995</year> 
+<pages>299-312</pages>
+<url>db/journals/acta/acta32.html#Kindler95</url>
+<ee>http://dx.doi.org/10.1007/BF01178381</ee>
+</article>
+
+<article mdate="2011-01-11" key="journals/acta/Kouvatsos86">
+<author>Demetres D. Kouvatsos</author>
+<title>Maximum Entropy and the <i> G/G/1/N </i> Queue.</title>
+<pages>545-565</pages>
+<year>1986</year>
+<volume>23</volume>
+<journal>Acta Inf.</journal>
+<number>5</number>
+<url>db/journals/acta/acta23.html#Kouvatsos86</url>
+<ee>http://dx.doi.org/10.1007/BF00288469</ee>
+</article>
+<article mdate="2003-11-25" key="journals/acta/GorlatchL00">
+<author>Sergei Gorlatch</author>
+<author>Christian Lengauer</author>
+<title>Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.</title>
+<pages>761-803</pages>
+<year>2000</year>
+<volume>36</volume>
+<journal>Acta Inf.</journal>
+<number>9/10</number>
+<ee>http://link.springer.de/link/service/journals/00236/bibs/0036009/00360761.htm</ee>
+<url>db/journals/acta/acta36.html#GorlatchL00</url>
+</article>
+
+<article mdate="2009-06-22" key="journals/acta/Meyer09">
+<author>Roland Meyer</author>
+<title>A theory of structural stationarity in the <i>pi</i> -Calculus.</title>
+<pages>87-137</pages>
+<year>2009</year>
+<volume>46</volume>
+<journal>Acta Inf.</journal>
+<number>2</number>
+<ee>http://dx.doi.org/10.1007/s00236-009-0091-x</ee>
+<url>db/journals/acta/acta46.html#Meyer09</url>
+</article>
+
+<article mdate="2011-01-11" key="journals/acta/Reisch81">
+<author>Stefan Reisch</author>
+<title>Hex ist PSPACE-vollst&auml;ndig.</title>
+<pages>167-191</pages>
+<year>1981</year>
+<volume>15</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta15.html#Reisch81</url>
+<ee>http://dx.doi.org/10.1007/BF00288964</ee>
+</article>
+<article mdate="2003-11-25" key="journals/acta/Csuhaj-VarjuM00">
+<author>Erzs&eacute;bet Csuhaj-Varj&uacute;</author>
+<author>Victor Mitrana</author>
+<title>Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.</title>
+<pages>913-926</pages>
+<year>2000</year>
+<volume>36</volume>
+<journal>Acta Inf.</journal>
+<number>11</number>
+<ee>http://link.springer.de/link/service/journals/00236/bibs/0036011/00360913.htm</ee>
+<url>db/journals/acta/acta36.html#Csuhaj-VarjuM00</url>
+</article>
+<article mdate="2008-05-21" key="journals/acta/Janicki08">
+<author>Ryszard Janicki</author>
+<title>Relational structures model of concurrency.</title>
+<pages>279-320</pages>
+<year>2008</year>
+<volume>45</volume>
+<journal>Acta Inf.</journal>
+<number>4</number>
+<ee>http://dx.doi.org/10.1007/s00236-008-0071-6</ee>
+<url>db/journals/acta/acta45.html#Janicki08</url>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Russell77"> 
+<author>Bruce Russell</author>
+<title>On an Equivalence between Continuation and Stack Semantics.</title>
+<journal>Acta Inf.</journal>
+<volume>8</volume> 
+<year>1977</year> 
+<pages>113-123</pages>
+<url>db/journals/acta/acta8.html#Russell77</url>
+<ee>http://dx.doi.org/10.1007/BF00289244</ee>
+</article>
+
+<article mdate="2011-01-11" key="journals/acta/EhrenfeuchtR74"> 
+<author>Andrzej Ehrenfeucht</author>
+<author>Grzegorz Rozenberg</author>
+<title>Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.</title>
+<journal>Acta Inf.</journal>
+<volume>3</volume> 
+<year>1974</year> 
+<pages>265-283</pages>
+<url>db/journals/acta/acta3.html#EhrenfeuchtR74</url>
+<ee>http://dx.doi.org/10.1007/BF00288638</ee>
+</article>
+
+<article mdate="2011-01-11" key="journals/acta/Kemp80">
+<author>Rainer Kemp</author>
+<title>A Note on the Density of Inherently Ambiguous Context-free Languages.</title>
+<pages>295-298</pages>
+<year>1980</year>
+<volume>14</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta14.html#Kemp80</url>
+<ee>http://dx.doi.org/10.1007/BF00264258</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/HanI89">
+<author>Yijie Han</author>
+<author>Yoshihide Igarashi</author>
+<title>Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.</title>
+<pages>643-655</pages>
+<year>1989</year>
+<volume>26</volume>
+<journal>Acta Inf.</journal>
+<number>7</number>
+<url>db/journals/acta/acta26.html#HanI89</url>
+<ee>http://dx.doi.org/10.1007/BF00288975</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/AkyildizB89">
+<author>Ian F. Akyildiz</author>
+<author>Horst von Brand</author>
+<title>Computational Algorithms for Networks of Queues with Rejection Blocking.</title>
+<pages>559-576</pages>
+<year>1989</year>
+<volume>26</volume>
+<journal>Acta Inf.</journal>
+<number>6</number>
+<url>db/journals/acta/acta26.html#AkyildizB89</url>
+<ee>http://dx.doi.org/10.1007/BF00263580</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/ChenM95"> 
+<author>X. J. Chen</author>
+<author>Carlo Montangero</author>
+<title>Compositional Refinements in Multiple Blackboard Systems.</title>
+<journal>Acta Inf.</journal>
+<volume>32</volume> 
+<number>5</number>
+<year>1995</year> 
+<pages>415-458</pages>
+<url>db/journals/acta/acta32.html#ChenM95</url>
+<ee>http://dx.doi.org/10.1007/BF01213078</ee>
+</article>
+
+<article mdate="2015-02-04" key="journals/acta/GlabbeekGO15">
+<author>Rob J. van Glabbeek</author>
+<author>Ursula Goltz</author>
+<author>Ernst-R&uuml;diger Olderog</author>
+<title>Special issue on "Combining Compositionality and Concurrency": part 1.</title>
+<pages>3-4</pages>
+<year>2015</year>
+<volume>52</volume>
+<journal>Acta Inf.</journal>
+<number>1</number>
+<ee>http://dx.doi.org/10.1007/s00236-014-0213-y</ee>
+<url>db/journals/acta/acta52.html#GlabbeekGO15</url>
+</article>
+<article mdate="2003-11-25" key="journals/acta/Santone02">
+<author>Antonella Santone</author>
+<title>Automatic verification of concurrent systems using a formula-based compositional approach.</title>
+<pages>531-564</pages>
+<year>2002</year>
+<volume>38</volume>
+<journal>Acta Inf.</journal>
+<number>8</number>
+<ee>http://link.springer.de/link/service/journals/00236/bibs/2038008/20380531.htm</ee>
+<url>db/journals/acta/acta38.html#Santone02</url>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Hehner78">
+<author>Eric C. R. Hehner</author>
+<title>On Removing the Machine from the Language.</title>
+<pages>229-243</pages>
+<year>1978</year>
+<volume>10</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta10.html#Hehner78</url>
+<ee>http://dx.doi.org/10.1007/BF00264318</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/ChungES85">
+<author>Moon-Jung Chung</author>
+<author>Michael Evangelist</author>
+<author>Ivan Hal Sudborough</author>
+<title>Complete Problems for Space Bounded Subclasses of NP.</title>
+<pages>379-395</pages>
+<year>1985</year>
+<volume>22</volume>
+<journal>Acta Inf.</journal>
+<number>4</number>
+<url>db/journals/acta/acta22.html#ChungES85</url>
+<ee>http://dx.doi.org/10.1007/BF00288774</ee>
+</article>
+<article mdate="2014-05-19" key="journals/acta/BulychevDLL14">
+<author>Peter E. Bulychev</author>
+<author>Alexandre David</author>
+<author>Kim G. Larsen</author>
+<author>Guangyuan Li</author>
+<title>Efficient controller synthesis for a fragment of MTL<sub>0,&#8734;</sub>.</title>
+<pages>165-192</pages>
+<year>2014</year>
+<volume>51</volume>
+<journal>Acta Inf.</journal>
+<number>3-4</number>
+<ee>http://dx.doi.org/10.1007/s00236-013-0189-z</ee>
+<url>db/journals/acta/acta51.html#BulychevDLL14</url>
+</article>
+<article mdate="2011-01-11" key="journals/acta/BuddA82">
+<author>Timothy A. Budd</author>
+<author>Dana Angluin</author>
+<title>Two Notions of Correctness and Their Relation to Testing.</title>
+<pages>31-45</pages>
+<year>1982</year>
+<volume>18</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta18.html#BuddA82</url>
+<ee>http://dx.doi.org/10.1007/BF00625279</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Markowsky81">
+<author>George Markowsky</author>
+<title>Best Huffman Trees.</title>
+<pages>363-370</pages>
+<year>1981</year>
+<volume>16</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta16.html#Markowsky81</url>
+<ee>http://dx.doi.org/10.1007/BF00289311</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Stadel81">
+<author>Manfred P. Stadel</author>
+<title>Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.</title>
+<pages>45-56</pages>
+<year>1981</year>
+<volume>16</volume>
+<journal>Acta Inf.</journal>
+<url>db/journals/acta/acta16.html#Stadel81</url>
+<ee>http://dx.doi.org/10.1007/BF00289589</ee>
+</article>
+<article mdate="2011-01-11" key="journals/acta/Watt77"> 
+<author>David A. Watt</author>
+<title>The Parsing Problem for Affix Grammars.</title>
+<journal>Acta Inf.</journal>
+<volume>8</volume> 
+<year>1977</year> 
+<pages>1-20</pages>
+<url>db/journals/acta/acta8.html#Watt77</url>
+<ee>http://dx.doi.org/10.1007/BF00276181</ee>
+</article>
+
+
+</dblp>
